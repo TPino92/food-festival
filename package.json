@@ -8,7 +8,7 @@
     "build": "webpack",
     "start:dev": "webpack serve",
     "test": "echo \"Error: no test specified\" && exit 1"
-},
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TPino92/food-festival.git"
@@ -31,6 +31,7 @@
   "dependencies": {
     "bootstrap": "^4.5.3",
     "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
+    "popper.js": "^1.16.1",
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }
